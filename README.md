@@ -50,7 +50,7 @@ RDS MySQL Database (Primary + Standby)
 
 Example output of the deployed application:
 
-![Website Output](screenshots/website-output page.png)
+![Website Output](screenshots/website-output.png)
 
 ---
 
@@ -63,7 +63,7 @@ Example output of the deployed application:
 ![ALB](screenshots/load-balancer.png)
 
 ### Auto Scaling Group
-![ASG](screenshots/auto-scaling group.png)
+![ASG](screenshots/auto-scaling.png)
 
 ### RDS Database
 ![RDS](screenshots/rds-database.png)
