@@ -50,23 +50,26 @@ RDS MySQL Database (Primary + Standby)
 
 Example output of the deployed application:
 
-![Website Output](screenshots/website.png)
+![Website Output](screenshots/website-output.png)
 
 ---
 
 # AWS Infrastructure Screenshots
 
 ### EC2 Instances
-![EC2](screenshots/ec2.png)
+![EC2](screenshots/ec2-instance-dashboard.png)
 
 ### Application Load Balancer
-![ALB](screenshots/alb.png)
+![ALB](screenshots/load-balancer.png)
 
 ### Auto Scaling Group
-![ASG](screenshots/asg.png)
+![ASG](screenshots/auto-scaling.png)
 
 ### RDS Database
-![RDS](screenshots/rds.png)
+![RDS](screenshots/rds-database.png)
+
+### Target groups
+![Target group](screenshots/target-group.png)
 
 ---
 
