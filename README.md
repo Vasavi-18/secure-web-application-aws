@@ -50,7 +50,7 @@ RDS MySQL Database (Primary + Standby)
 
 Example output of the deployed application:
 
-![Website Output](screenshots/website-output.png)
+![Website-Output](screenshots/website-output.png)
 
 ---
 
