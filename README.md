@@ -141,14 +141,3 @@ AWS Region: ap-south-2 (Hyderabad)
 Computer Science Student  
 Cloud & Web Technologies Enthusiast
 
----
-
-# 🔮 Future Improvements
-
-Possible enhancements for the project:
-
-- Infrastructure as Code using **Terraform**
-- CI/CD pipeline for automated deployments
-- Monitoring and logging using **AWS CloudWatch**
-- HTTPS support with **AWS Certificate Manager**
-- Web Application Firewall (AWS WAF)
